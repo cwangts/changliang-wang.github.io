@@ -50,8 +50,9 @@
         </li>
      </ul>
     <h2 id="paper">论文</h2>
-     1. (with B. Allen and W. Tian) On the scalar curvature compactness conjecture in the conformal case, 
-               Accepted by  Calculus of Variation and Partial Differential Equations, (2025).        
+    <ol>
+     <li>(with B. Allen and W. Tian) On the scalar curvature compactness conjecture in the conformal case, 
+               Accepted by  Calculus of Variation and Partial Differential Equations, (2025).       </li> 
           <br>
      2. (with Y. Sun) Gap phenomenon for scalar curvature, 
                 Journal of Geometric Analysis}, Volume 35, article number 275, (2025).        
@@ -73,8 +74,8 @@
            <br>
      8. (with M. Wang) Instability of some Riemannian manifolds with real Killing spinors, 
            Communications in Analysis and Geometry, 30(8), 1895-1931, (2022).  
+    </ol>
     <ol>
-    <li><a target="_blank">项目1</a> - 简短描述</li>
     <li><a target="_blank">项目2</a> - 简短描述</li>
     <li><a target="_blank">项目3</a> - 简短描述</li>
     </ol>  
