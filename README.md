@@ -68,7 +68,27 @@
           Nonlinear Analysis, 239, Paper No. 113427, 24 pp, (2024).    </li>
      <li> (with M. Wang) Instability of some Riemannian manifolds with real Killing spinors, 
            Communications in Analysis and Geometry, 30(8), 1895-1931, (2022).   </li>
-     <li> 
+     <li> (with U. Semmelmann and M. Wang) Linear Instability of Sasaki Einstein and nearly parallel G2 manifolds,  
+           International Journal of Mathematics, 33(6), Paper No. 2250042, 17 pages, (2022). </li>   
+      <li> (with F. He)  Regularity estimates for the gradient flow of a spinorial energy functional, 
+           Mathematical Research Letters, 28(4), 1125-1173, (2021). </li>    
+      <li> (with M. Wang) Stability of Einstein metrics on fiber bundles},
+              Journal of Geometric Analysis, 31, 490-515, (2021).  </li>  
+      <li> (with X. Dai) Perelman's $W$-functional on manifolds with conical singularities,
+                 Mathematical Research Letters, 27(3), 665-685, (2020).   </li>     
+      <li> (with U. Semmelmann and M. Wang) On the linear stability of nearly K\"ahler 6-manifolds, 
+               Annals of Global Analysis and Geometry, 57(1), 15-22, (2020).   </li>      
+      <li> (with J. Park and W. Tian)  A compactness theorem for rotationally symmetric Riemannian manifolds with positive scalar curvature,
+               Pure Applied Mathematics Quarterly, 14(3-4), 529-561, (2018).  </li>  
+     <li> (with X. Dai) Perelman's $\lambda$-functional on manifolds with conical singularities,
+              Journal of Geometric Analysis, 28(4), 3657-3689, (2018).  </li>   
+      <li>  Stability of Riemannian manifolds with Killing spinors},
+                International Journal of Mathematics, 28(1), 1750005, 19 pages, (2017). </li>    
+     <h3 id="preprint">预印本</h3>
+      <li> (with X. Dai, L. Wang and G. Wei) Singular metrics with nonnegative scalar curvature and RCD,  
+               arXiv:2412.09185, submitted.  </li>
+      <li> (with X. Dai, Y. Sun) Positive scalar curvature and isolated conical singularity}, 
+                arXiv:2412.02941.  </li>   
     </ol>
  </body>
 </html>
