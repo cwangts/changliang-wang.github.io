@@ -49,5 +49,8 @@
           Einstein度量的稳定性问题
         </li>
      </ul>
+    <h2 id="paper">论文</h2>
+     1. aaa
+     2. bbb
     </body>
 </html>
