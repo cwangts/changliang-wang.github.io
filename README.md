@@ -21,12 +21,23 @@
     <h2 id="education">Education</h2>
     <ul>
       <li>
-        ::marker
-        "Ph.D., University of California, Santa Barbara, USA, 2016"
+        Ph.D., University of California, Santa Barbara, USA, 2016
       </li>
       <li>
-        ::marker
-        "Master, University of Science and Technology of China, 2011"
+        Master, University of Science and Technology of China, 2011
       </li>
-  </body>
+      <li>
+        Bachelor, University of Science and Technology of China, 2008
+      </li>
+    </ul>
+    <h2 id="employment">Employment</h2>
+    <ul>
+      <li> 
+        Researcher, Tongji University, since 2020.09
+      </li>
+      <li>
+        Postdoctoral Fellow, Max Planck In, 2018.09-2020.08 
+      </li>
+    </ul>
+    </body>
 </html>
