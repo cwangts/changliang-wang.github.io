@@ -51,33 +51,24 @@
      </ul>
     <h2 id="paper">论文</h2>
     <ol>
+      <h3 id="publication">已发表及接受论文</h3>
      <li>(with B. Allen and W. Tian) On the scalar curvature compactness conjecture in the conformal case, 
-               Accepted by  Calculus of Variation and Partial Differential Equations, (2025).       </li> 
-          <br>
-     2. (with Y. Sun) Gap phenomenon for scalar curvature, 
-                Journal of Geometric Analysis}, Volume 35, article number 275, (2025).        
-          <br>
-     3. (with X. Dai and Y. Sun) Positive mass theorem for asymptotically flat spin manifolds with isolated conical singularities,
-              Transactions of the American Mathematical Society, 378 (4), 2617-2646, (2025).   
-          <br>
-     4. (with X. Dai and Y. Sun)  Positive mass theorem for asymptotically flat manifolds with isolated conical singularities, 
-             Science China Mathematics, Vol. 68, No. 7, 1671-1686, (2025).  
-          <br>
-     5. (with W. Tian) Compactness of sequences of warped product circles over spheres with nonnegative scalar curvature, 
-           Mathematische Annalen, 390, no. 2, 2767-2823, (2024).   
-          <br>
-     6. (with X. Dai) Perelman's functionals on manifolds with non-isolated conical singularities,
-           Calculus of Variations and Partial Differential Equations, Volume 63, article number 233, 51 pages, (2024).  
-          <br>
-     7. (with Sormani and W. Tian) An extreme limit with nonnegative scalar curvature,
-          Nonlinear Analysis, 239, Paper No. 113427, 24 pp, (2024).    
-           <br>
-     8. (with M. Wang) Instability of some Riemannian manifolds with real Killing spinors, 
-           Communications in Analysis and Geometry, 30(8), 1895-1931, (2022).  
+               Accepted by  Calculus of Variation and Partial Differential Equations, (2025).       </li>   
+     <li> (with Y. Sun) Gap phenomenon for scalar curvature, 
+                Journal of Geometric Analysis}, Volume 35, article number 275, (2025).        </li>  
+     <li> (with X. Dai and Y. Sun) Positive mass theorem for asymptotically flat spin manifolds with isolated conical singularities,
+              Transactions of the American Mathematical Society, 378 (4), 2617-2646, (2025).   </li>
+     <li> (with X. Dai and Y. Sun)  Positive mass theorem for asymptotically flat manifolds with isolated conical singularities, 
+             Science China Mathematics, Vol. 68, No. 7, 1671-1686, (2025).   </li>
+    <li> (with W. Tian) Compactness of sequences of warped product circles over spheres with nonnegative scalar curvature, 
+           Mathematische Annalen, 390, no. 2, 2767-2823, (2024).   </li>
+     <li> (with X. Dai) Perelman's functionals on manifolds with non-isolated conical singularities,
+           Calculus of Variations and Partial Differential Equations, Volume 63, article number 233, 51 pages, (2024).  </li>
+     <li> (with Sormani and W. Tian) An extreme limit with nonnegative scalar curvature,
+          Nonlinear Analysis, 239, Paper No. 113427, 24 pp, (2024).    </li>
+     <li> (with M. Wang) Instability of some Riemannian manifolds with real Killing spinors, 
+           Communications in Analysis and Geometry, 30(8), 1895-1931, (2022).   </li>
+     <li> 
     </ol>
-    <ol>
-    <li><a target="_blank">项目2</a> - 简短描述</li>
-    <li><a target="_blank">项目3</a> - 简短描述</li>
-    </ol>  
  </body>
 </html>
