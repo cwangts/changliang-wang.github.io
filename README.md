@@ -73,5 +73,10 @@
            <br>
      8. (with M. Wang) Instability of some Riemannian manifolds with real Killing spinors, 
            Communications in Analysis and Geometry, 30(8), 1895-1931, (2022).  
-  </body>
+    <ol>
+    <li><a target="_blank">项目1</a> - 简短描述</li>
+    <li><a target="_blank">项目2</a> - 简短描述</li>
+    <li><a target="_blank">项目3</a> - 简短描述</li>
+    </ol>  
+ </body>
 </html>
