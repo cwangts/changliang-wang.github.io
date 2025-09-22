@@ -51,9 +51,7 @@
      </ul>
     <h2 id="paper">论文</h2>
     <ol>
-      <h3 id="publication">已发表及接受论文</h3>
-     <li>(with B. Allen and W. Tian) On the scalar curvature compactness conjecture in the conformal case, 
-               Accepted by  <strong>Calculus of Variation and Partial Differential Equations</strong>, (2025).       </li>   
+      <h3 id="publication">发表论文</h3>
      <li> (with Y. Sun) Gap phenomenon for scalar curvature, 
                 <strong>Journal of Geometric Analysis</strong>, Volume 35, article number 275, (2025). (<a href="https://link.springer.com/article/10.1007/s12220-025-02111-3" target="_blank">link</a>)       </li>  
      <li> (with X. Dai and Y. Sun) Positive mass theorem for asymptotically flat spin manifolds with isolated conical singularities,
@@ -99,7 +97,11 @@
                 <strong>International Journal of Mathematics</strong>, 28(1), 1750005, 19 pages, (2017).
                 (<a href="https://www.worldscientific.com/doi/abs/10.1142/S0129167X17500057" target="_blank">link</a>)      </li>    
      <h3 id="preprint">预印本</h3>
-      <li> (with X. Dai, L. Wang and G. Wei) Singular metrics with nonnegative scalar curvature and RCD,  <a href="https://arxiv.org/abs/2412.09185" target="_blank">arXiv:2412.09185</a>. </li>
+       <li>(with B. Allen and W. Tian) On the scalar curvature compactness conjecture in the conformal case, 
+               Accepted by  <strong>Calculus of Variation and Partial Differential Equations</strong>, (2025),
+           <a href="https://arxiv.org/abs/2406.03988" target="_blank">arXiv:2406.03988</a>. </li>   
+      <li> (with X. Dai, L. Wang and G. Wei) Singular metrics with nonnegative scalar curvature and RCD,  
+           <a href="https://arxiv.org/abs/2412.09185" target="_blank">arXiv:2412.09185</a>. </li>
       <li> (with X. Dai, Y. Sun) Positive scalar curvature and isolated conical singularity, 
                <a href="https://arxiv.org/abs/2412.02941" target="_blank">arXiv:2412.02941</a>.  </li>   
     </ol>
