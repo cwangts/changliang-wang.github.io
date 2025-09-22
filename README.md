@@ -1,4 +1,3 @@
-# changliang-wang.github.io
 <html>
   <head>
     <meta charset="UTF-8">  
@@ -7,11 +6,9 @@
     <p>
       <br>
     </p>
+    <h2>王常亮</h2>
     <p>
-      <font size="5">王常亮</font>
-    </p>
-    <p>
-      <img width="300" height="300" src="https://github.com/cwangts/changliang-wang.github.io/raw/main/images/cwang.jpg">
+      <img width="300" height="300" src="https://github.com/cwangts/changliang-wang.github.io/raw/main/cwang.jpg">
     </p>
     <p>
       地址：同济大学宁静楼307室   
