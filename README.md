@@ -13,7 +13,7 @@
     <p>
       地址：同济大学宁静楼307室   
       <br>
-      电子邮箱: chlwang@tongji.edu.cn
+      电子邮箱: wangchl@tongji.edu.cn
     </p>
     <h2 id="education">教育背景</h2>
     <ul>
@@ -64,7 +64,7 @@
               <strong>Mathematische Annalen</strong>, 390, no. 2, 2767-2823, (2024).   </li>
      <li> (with X. Dai) Perelman's functionals on manifolds with non-isolated conical singularities,
             <strong>Calculus of Variations and Partial Differential Equations</strong>, Volume 63, article number 233, 51 pages, (2024).  </li>
-     <li> (with Sormani and W. Tian) An extreme limit with nonnegative scalar curvature,
+     <li> (with C. Sormani and W. Tian) An extreme limit with nonnegative scalar curvature,
              <strong>Nonlinear Analysis</strong>, 239, Paper No. 113427, 24 pp, (2024).    </li>
      <li> (with M. Wang) Instability of some Riemannian manifolds with real Killing spinors, 
              <strong>Communications in Analysis and Geometry</strong>, 30(8), 1895-1931, (2022).   </li>
@@ -80,9 +80,9 @@
                <strong>Annals of Global Analysis and Geometry</strong>, 57(1), 15-22, (2020).   </li>      
       <li> (with J. Park and W. Tian)  A compactness theorem for rotationally symmetric Riemannian manifolds with positive scalar curvature,
                <strong>Pure Applied Mathematics Quarterly</strong>, 14(3-4), 529-561, (2018).  </li>  
-     <li> (with X. Dai) Perelman's $\lambda$-functional on manifolds with conical singularities,
+     <li> (with X. Dai) Perelman's lambda-functional on manifolds with conical singularities,
               <strong>Journal of Geometric Analysis</strong>, 28(4), 3657-3689, (2018).  </li>   
-      <li>  Stability of Riemannian manifolds with Killing spinors},
+      <li>  Stability of Riemannian manifolds with Killing spinors,
                 <strong>International Journal of Mathematics</strong>, 28(1), 1750005, 19 pages, (2017). </li>    
      <h3 id="preprint">预印本</h3>
       <li> (with X. Dai, L. Wang and G. Wei) Singular metrics with nonnegative scalar curvature and RCD,  
