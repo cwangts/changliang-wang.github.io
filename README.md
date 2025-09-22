@@ -7,8 +7,11 @@
     <p>
       <br>
     </p>
-    <p align="center">
+    <p>
       <font size="5">王常亮</font>
+    </p>
+    <p>
+      <img width="300" height="300" scr="https://github.com/user-attachments/assets/e7392b6a-3a4d-4c5b-8d97-b00bf3bfd10f">
     </p>
     <p>
       地址：同济大学宁静楼307室   
