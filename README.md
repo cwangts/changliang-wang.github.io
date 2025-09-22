@@ -55,7 +55,7 @@
      <li>(with B. Allen and W. Tian) On the scalar curvature compactness conjecture in the conformal case, 
                Accepted by  <strong>Calculus of Variation and Partial Differential Equations</strong>, (2025).       </li>   
      <li> (with Y. Sun) Gap phenomenon for scalar curvature, 
-                <strong>Journal of Geometric Analysis</strong>, Volume 35, article number 275, (2025).        </li>  
+                <strong>Journal of Geometric Analysis</strong>, Volume 35, article number 275, (2025). (<a href="https://link.springer.com/article/10.1007/s12220-025-02111-3" target="_blank">link</a>)       </li>  
      <li> (with X. Dai and Y. Sun) Positive mass theorem for asymptotically flat spin manifolds with isolated conical singularities,
               <strong>Transactions of the American Mathematical Society</strong>, 378 (4), 2617-2646, (2025).   </li>
      <li> (with X. Dai and Y. Sun)  Positive mass theorem for asymptotically flat manifolds with isolated conical singularities, 
