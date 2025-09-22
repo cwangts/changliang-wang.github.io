@@ -78,7 +78,7 @@
       <li> (with F. He)  Regularity estimates for the gradient flow of a spinorial energy functional, 
             <strong>Mathematical Research Letters</strong>, 28(4), 1125-1173, (2021).
                  (<a href="https://link.intlpress.com/JDetail/1806601971408728065" target="_blank">link</a>)   </li>    
-      <li> (with M. Wang) Stability of Einstein metrics on fiber bundles},
+      <li> (with M. Wang) Stability of Einstein metrics on fiber bundles,
               <strong>Journal of Geometric Analysis</strong>, 31, 490-515, (2021).
                (<a href="https://link.springer.com/article/10.1007/s12220-019-00282-4" target="_blank">link</a>)     </li>  
       <li> (with X. Dai) Perelman's W-functional on manifolds with conical singularities,
