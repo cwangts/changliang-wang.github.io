@@ -18,25 +18,25 @@
     <h2 id="education">教育背景</h2>
     <ul>
       <li>
-        2011 -- 2016，数学博士，美国加州大学圣芭芭拉分校
+        2011 —— 2016，数学博士，美国加州大学圣芭芭拉分校
       </li>
       <li>
-        2008 -- 2011， 理学硕士，中国科学技术大学
+        2008 —— 2011， 理学硕士，中国科学技术大学
       </li>
       <li>
-        2004 -- 2008， 理学学士，中国科学技术大学
+        2004 —— 2008， 理学学士，中国科学技术大学
       </li>
     </ul>
     <h2 id="employment">工作经历</h2>
     <ul>
       <li> 
-        2020.09 -- 至 今，   特聘研究员， 同济大学
+        2020.09 —— 至 今，   特聘研究员， 同济大学
       </li>
       <li>
-        2018.09 -- 2020.08，    博士后，德国马克斯普朗克数学所
+        2018.09 —— 2020.08，    博士后，德国马克斯普朗克数学所
       </li>
       <li>
-        2016.09 -- 2018.08,      博士后，加拿大McMaster大学
+        2016.09 —— 2018.08,      博士后，加拿大McMaster大学
       </li>
     </ul>
     <h2 id="research">研究方向</h2>
@@ -76,7 +76,7 @@
               Journal of Geometric Analysis, 31, 490-515, (2021).  </li>  
       <li> (with X. Dai) Perelman's $W$-functional on manifolds with conical singularities,
                  Mathematical Research Letters, 27(3), 665-685, (2020).   </li>     
-      <li> (with U. Semmelmann and M. Wang) On the linear stability of nearly K\"ahler 6-manifolds, 
+      <li> (with U. Semmelmann and M. Wang) On the linear stability of nearly Kaehler 6-manifolds, 
                Annals of Global Analysis and Geometry, 57(1), 15-22, (2020).   </li>      
       <li> (with J. Park and W. Tian)  A compactness theorem for rotationally symmetric Riemannian manifolds with positive scalar curvature,
                Pure Applied Mathematics Quarterly, 14(3-4), 529-561, (2018).  </li>  
@@ -87,7 +87,7 @@
      <h3 id="preprint">预印本</h3>
       <li> (with X. Dai, L. Wang and G. Wei) Singular metrics with nonnegative scalar curvature and RCD,  
                arXiv:2412.09185, submitted.  </li>
-      <li> (with X. Dai, Y. Sun) Positive scalar curvature and isolated conical singularity}, 
+      <li> (with X. Dai, Y. Sun) Positive scalar curvature and isolated conical singularity, 
                 arXiv:2412.02941.  </li>   
     </ol>
  </body>
