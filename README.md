@@ -99,10 +99,9 @@
                 <strong>International Journal of Mathematics</strong>, 28(1), 1750005, 19 pages, (2017).
                 (<a href="https://www.worldscientific.com/doi/abs/10.1142/S0129167X17500057" target="_blank">link</a>)      </li>    
      <h3 id="preprint">预印本</h3>
-      <li> (with X. Dai, L. Wang and G. Wei) Singular metrics with nonnegative scalar curvature and RCD,  
-               arXiv:2412.09185, submitted.  </li>
+      <li> (with X. Dai, L. Wang and G. Wei) Singular metrics with nonnegative scalar curvature and RCD,  <a href="https://arxiv.org/abs/2412.09185" target="_blank">arXiv:2412.09185</a>. </li>
       <li> (with X. Dai, Y. Sun) Positive scalar curvature and isolated conical singularity, 
-                arXiv:2412.02941.  </li>   
+               <a href="https://arxiv.org/abs/2412.02941" target="_blank">arXiv:2412.02941</a>.  </li>   
     </ol>
  </body>
 </html>
